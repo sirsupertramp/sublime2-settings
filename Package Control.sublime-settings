@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"DetectSyntax",
+		"Git",
+		"Package Control",
+		"RSpec",
+		"SCSS",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SyncedSideBar",
+		"Terminal"
+	]
+}
